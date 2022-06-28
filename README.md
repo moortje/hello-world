@@ -1,7 +1,4 @@
-# hello-world
-My first GitHub repository.
-
-# H1 Hello, world!
+# Hello, world!
 
 **Am I using Markdown right?**
 
