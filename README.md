@@ -1,9 +1,16 @@
 # hello-world
 My first GitHub repository.
 
-# H1
-HELLO
+# H1 Hello, world!
 
-**bold text** Am I using Markdown right?
+**Am I using Markdown right?**
 
-*italicized text* I have no idea!
+*This is so much fun! 😹*
+> What is Block quote? 🐱
+
+
+### To do list for tomorrow
+1. Call the library.
+2. Meet the coach.
+3. Text HR.
+4. Continue on GH.
